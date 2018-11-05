@@ -4,11 +4,14 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
-### R1D0 (Nov. 2nd prep)
-Got up to speed on Github practicing with Contribute-to-this-project repo. Feel ready to start these 100 days now using Github to track my progress and push my code.
+### R1D3
+
+
+### R1D2
+Continued on with the @freeCodeCamp Responsive Web Design cert. Finished the "Applied Visual Design" module. Really enjoyed that one. Learned a lot of new CSS I hadn't used before doing animations and transforms. Also some color theory that blew my mind just a little bit. 
 
 ### R1D1 
 Started on freecodecamp.com Responsive Web Design Certification - completed the first two modules "Basic HTML and HTML5" as well as "Basic CSS". Good day 1, I feel like going on but its getting late and I still have 99 days left. Pacing myself!
 
-### R1D2
-Continued on with the @freeCodeCamp Responsive Web Design cert. Finished the "Applied Visual Design" module. Really enjoyed that one. Learned a lot of new CSS I hadn't used before doing animations and transforms. Also some color theory that blew my mind just a little bit. 
+### R1D0 (Nov. 2nd prep)
+Got up to speed on Github practicing with Contribute-to-this-project repo. Feel ready to start these 100 days now using Github to track my progress and push my code.
