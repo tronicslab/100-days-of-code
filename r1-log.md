@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
-### R1D3
+### R1D4
+---
 
+### R1D3
+More on @freeCodeCamp - finished "Applied Accessibility" and "Responsive Web Design Principles". Played around with https://CodePen.io - great resource. Will be going there a I design my projects for the end of this cert...which is coming up fast. Doing some reading on ML
 
 ### R1D2
 Continued on with the @freeCodeCamp Responsive Web Design cert. Finished the "Applied Visual Design" module. Really enjoyed that one. Learned a lot of new CSS I hadn't used before doing animations and transforms. Also some color theory that blew my mind just a little bit. 
