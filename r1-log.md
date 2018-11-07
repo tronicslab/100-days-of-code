@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D5
+
+
 ### R1D4
----
+Reviewed a few of my old pens from https://CodePen.io , forked and tweaked a CSS horizontal menu design. Made a start on the flexbox section in @freeCodeCamp. Daylight Savings time been kicking my butt with my 8 month old now rising at 4:30am or earlier. Wisdom teeth out tomorrow #FML 
 
 ### R1D3
 More on @freeCodeCamp - finished "Applied Accessibility" and "Responsive Web Design Principles". Played around with https://CodePen.io - great resource. Will be going there a I design my projects for the end of this cert...which is coming up fast. Doing some reading on ML
