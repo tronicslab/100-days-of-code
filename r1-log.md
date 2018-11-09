@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
-### R1D6
+### R1D7
 
+
+### R1D6
+Spent a couple hours on my first project - Tribute Page for #freeCodeCamp. Long time spent coding a CSS art animal and animation on a CSS grid layout. Hope to share my creation soon! CSS art, animations, and grid are new to me so this helps solidify those concepts. #100DaysOfCode
 
 ### R1D5
 Today I completed all the @freeCodeCamp Responsive Web Design lessons, moving on to the projects module. Time to put all this information to use before it leaves my brain. And i'll have my first cert. I suspect it will take me a lot more than 5 days to finish these projects.
