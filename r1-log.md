@@ -4,7 +4,11 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D8
+
+
 ### R1D7
+Finished my first project - Tribute Page for #freeCodeCamp. Halfway through I realized it was going to be hard adding the media queries based on how I had laid everything out but I powered through and got a half-assed responsive tribute page. Not my best work. #100DaysOfCode
 
 
 ### R1D6
