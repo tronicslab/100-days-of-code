@@ -4,12 +4,14 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
-### R1D8
+### R1D9
+Completed V2 of my Tribute page. Changed my approach and was about to remove about 25-30 lines of CSS. Works better now. And i'm happier with it now to move on.
 
+### R1D8
+Not a lot done today, family sick and pain from wisdom teeth pulled killed progress. Read up on JS and found some Front-End related Podcasts. Decidedd to rework my tribute page project.
 
 ### R1D7
 Finished my first project - Tribute Page for #freeCodeCamp. Halfway through I realized it was going to be hard adding the media queries based on how I had laid everything out but I powered through and got a half-assed responsive tribute page. Not my best work. #100DaysOfCode
-
 
 ### R1D6
 Spent a couple hours on my first project - Tribute Page for #freeCodeCamp. Long time spent coding a CSS art animal and animation on a CSS grid layout. Hope to share my creation soon! CSS art, animations, and grid are new to me so this helps solidify those concepts. #100DaysOfCode
