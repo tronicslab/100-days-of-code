@@ -3,6 +3,14 @@
 The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
+### R1D12
+Starting to really get the hang of CSS grid, working on completing the style and design nitpicky-ness before calling second project complete.
+
+### R1D11
+Made more headway on second project - Survey form. Decided to go with another CSS grid layout to further solidify the concept. Lots of trial and error so far.
+
+### R1D10
+Starting second project from Responsive Web Design - Survey form
 
 ### R1D9
 Completed V2 of my Tribute page. Changed my approach and was about to remove about 25-30 lines of CSS. Works better now. And i'm happier with it now to move on.
