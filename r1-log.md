@@ -3,6 +3,13 @@
 The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
+
+### R1D14
+Finished my second project - Survey Form - and made a start on my next project - Product Landing Page. Two fill weeks in now. Enjoying this every day coding habit.
+
+### R1D13
+Just about finished my Survey form - got bored with the content so livened it up a bit with some sillyness.
+
 ### R1D12
 Starting to really get the hang of CSS grid, working on completing the style and design nitpicky-ness before calling second project complete.
 
