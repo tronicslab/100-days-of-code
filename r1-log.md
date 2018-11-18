@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D15
+More work on project 3. Switched from Codepen.io to using Sublime Text 3 and WAMP for building these projects so I can then push them to Github for storage. I really like Sublime. I just wish live updates were a thing while coding. 
+
 ### R1D14
-Finished my second project - Survey Form - and made a start on my next project - Product Landing Page. Two fill weeks in now. Enjoying this every day coding habit.
+Finished my second project - Survey Form - and made a start on my next project - Product Landing Page. Two full weeks in now. Enjoying this every day coding habit.
 
 ### R1D13
 Just about finished my Survey form - got bored with the content so livened it up a bit with some sillyness.
