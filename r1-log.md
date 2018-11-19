@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D17
+
+
+### R1D16
+More work on project 3. Added a live update module to allow seeing changes automatically in my browser. This workflow is working really well. Got the main layout of my product landing page done, just need to add meaningful content and style it better. 
+
 ### R1D15
 More work on project 3. Switched from Codepen.io to using Sublime Text 3 and WAMP for building these projects so I can then push them to Github for storage. I really like Sublime. I just wish live updates were a thing while coding. 
 
