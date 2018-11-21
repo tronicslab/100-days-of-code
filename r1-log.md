@@ -4,8 +4,11 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
-### R1D17
+### R1D18
+Officially compete project 3 - Product landing page. Spent a good amount of time on this one, but i'm pretty happy with the result.
 
+### R1D17
+Learned how to do video embeds with <video> tag and the <iframe> method. Also figured out how to make an iframe embed responsive, which was not trivial.
 
 ### R1D16
 More work on project 3. Added a live update module to allow seeing changes automatically in my browser. This workflow is working really well. Got the main layout of my product landing page done, just need to add meaningful content and style it better. 
