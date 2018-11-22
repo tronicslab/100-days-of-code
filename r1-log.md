@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D19
+Work on project 4, technical documentation page. Nailed down a topic for it, and got a good start.
+
 ### R1D18
 Officially compete project 3 - Product landing page. Spent a good amount of time on this one, but i'm pretty happy with the result.
 
