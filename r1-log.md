@@ -4,6 +4,18 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D23
+Completed Project 4! Had a tough time with styling and making media query CSS work nice when adjusting browser size smaller. Especially with fixed navigation bar. On to my final project before completing my Responsive web design Cert.
+
+### R1D22
+More HTML / CSS coding on the Tech. Documentation Project. Also decided to get fancy and add some JS active nav highlighting to the project, because I like a challenge.
+
+### R1D21
+Lots of editing HTML and styling for the Technical Documentation Project
+
+### R1D20
+Got the topic - HTML5, and added all the content to the project HTML
+
 ### R1D19
 Work on project 4, technical documentation page. Nailed down a topic for it, and got a good start.
 
