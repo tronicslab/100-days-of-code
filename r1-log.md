@@ -4,6 +4,23 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D29
+
+### R1D28
+Progress on final project - Personal Portfolio Page
+
+### R1D27
+Progress on final project - Personal Portfolio Page
+
+### R1D26
+Progress on final project - Personal Portfolio Page
+
+### R1D25
+Progress on final project - Personal Portfolio Page
+
+### R1D24
+Progress on final project - Personal Portfolio Page
+
 ### R1D23
 Completed Project 4! Had a tough time with styling and making media query CSS work nice when adjusting browser size smaller. Especially with fixed navigation bar. On to my final project before completing my Responsive web design Cert.
 
