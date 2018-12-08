@@ -4,7 +4,17 @@ The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
 
+### R1D35
+Completed Basic Javascript section - Was mostly straightforward but got tripped up a 3 challenges mostly JSON manipulation related. Started on the ES6 module
+
+### R1D34
+Working on Javascript Algorithms and Data Structures Certification - On the Basic Javascript section
+
+### R1D33
+Working on Javascript Algorithms and Data Structures Certification - On the Basic Javascript section
+
 ### R1D32
+Working on Javascript Algorithms and Data Structures Certification - On the Basic Javascript section
 
 ### R1D31
 Completed final project - Personal Portfolio Page. Also, this means I have earned my first Certificate! I feel like I spent a lot of time on this project considering I started this 8 days ago. But my hectic schedule lately has limited me to only 1 hr per day. I also fought a lot on this project with layout and getting the CSS to play nice with media queries. I finally decided that perfection is not necessary at this stage. My layout style was not playing nice when resizing the browser window by width and height. I was able to patch any issues but I feel like my CSS is now a disorganized mess. I might clean it up later. And look into SCSS as a future option.
