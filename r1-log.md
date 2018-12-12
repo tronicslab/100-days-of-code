@@ -3,6 +3,17 @@
 The log of my #100DaysOfCode challenge. Started on November 3rd, Saturday, 2018.
 
 ## Log
+### R1D39
+Completed Basic Algorithm Scripting Section
+
+### R1D38
+Completed Basic Data Structures Section - started on Basic Algorithm Scripting Section 
+
+### R1D37
+Completed RegEx Section and Debugging Section
+
+### R1D36
+Completed ES6 Section
 
 ### R1D35
 Completed Basic Javascript section - Was mostly straightforward but got tripped up a 3 challenges mostly JSON manipulation related. Started on the ES6 module
